@@ -9,6 +9,7 @@ export default defineConfig({
   description: "FLINTA Hackspace in Berlin",
   cleanUrls: true,
   lastUpdated: true,
+  base: "/heartofcode.org/",
   
   locales: {
     root: {
