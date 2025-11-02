@@ -1,8 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-
-
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Heart of Code",
@@ -31,10 +28,10 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'About us', link: '/en/about' },
-          { text: 'Contact', link: '/contact' },
           { text: 'Space', link: '/en/space' },
           { text: 'Events', link: '/en/events' },
           { text: 'Calendar', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
+          { text: 'Contact', link: '/en/contact' },
         ],
       }
     }
