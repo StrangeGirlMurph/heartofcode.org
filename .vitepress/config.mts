@@ -5,7 +5,6 @@ export default defineConfig({
   title: "Heart of Code",
   description: "FLINTA Hackspace in Berlin",
   cleanUrls: true,
-  lastUpdated: true,
   base: "/heartofcode.org/",
   
   locales: {
@@ -20,6 +19,10 @@ export default defineConfig({
           { text: 'Kalendar', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
           { text: 'Kontakt', link: '/contact' },
         ],
+        outline: {
+          label: 'Auf dieser Seite',
+        },
+        skipToContentLabel: 'Zum Inhalt springen',
       }
     },
     en: {
@@ -38,14 +41,14 @@ export default defineConfig({
   },
   
   themeConfig: {
-    logo: "/assets/logo.jpg",
-    editLink: {
-      pattern: 'https://github.com/heartsofcode/heartofcode/edit/main/:path',
-    },
+    logo: "/logo.png",
     search: {
       provider: "local"
     },
 
+    footer: {
+      copyright: "Copyright © 2025 Heart of Code e.V."
+    },
     sidebar: [],
     socialLinks: [
       {icon: "signal", link: "https://signal.group/#CjQKIKcj5S25ptG6H9bzdbaeot1_whif9j59J7bOmm91TeTlEhAc-VmeJpTuP-tZuOJad_MT"},
