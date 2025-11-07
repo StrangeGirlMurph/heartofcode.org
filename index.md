@@ -14,7 +14,7 @@ hero:
       link: https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep
     - theme: alt
       text: Wegbeschreibung
-      link: /space#Wegbeschreibung
+      link: /space#wegbeschreibung
 
 
 ---
