@@ -18,4 +18,4 @@ hero:
 
 ---
 
-Hey! We're the Heart of Code. A FLINTA [FLINTA](https://en.wikipedia.org/wiki/FLINTA*) (women, lesbians, inter, non-binary, trans and agender people) hackspace based in Berlin. We are a place for tech enthusiasts and nerds of all ages. We have a [space](/en/space.md) in the heart of Kreuzberg and organize [events](/en/events.md) for learning, sharing, tinkering, and more. 
+Hey! We're the Heart of Code. A [FLINTA](https://en.wikipedia.org/wiki/FLINTA*) (women, lesbians, inter, non-binary, trans and agender people) hackspace based in Berlin. We are a place for tech enthusiasts and nerds of all ages. We have a [space](/en/space.md) in the heart of Kreuzberg and organize [events](/en/events.md) for learning, sharing, tinkering, and more. 
