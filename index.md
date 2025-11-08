@@ -7,7 +7,7 @@ hero:
   tagline: FLINTA Hackspace in Berlin
   image:
     src: /logo.png
-    alt: Logo der Heart of Code. Ein Herz mit Flügeln und Blumen im Hintergrund und einer Schriftrolle mit einer Binärfolge im Vordergrund.
+    alt: Illustriertes Logo der Heart of Code. Ein Herz mit Flügeln und Blumen im Hintergrund und einer Schriftrolle mit einer Binärfolge im Vordergrund.
   actions:
     - theme: alt
       text: Eventkalender

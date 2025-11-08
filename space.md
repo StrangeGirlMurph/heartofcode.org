@@ -16,6 +16,8 @@ Wir sind grob über folgende Kartendienste zu finden:
 
 Wir haben: Ein Sofa, Tisch mit Stühlen, Wi-Fi (freifunk), Strom, einen 3D-Drucker, eine kleine Bibliothek und einen [Blåhaj](https://de.wikipedia.org/wiki/Bl%C3%A5haj) 🏳️‍⚧️
 
+Toiletten gibt es ganz nah in der NewYorck.
+
 ## Wegbeschreibung
 
 Der Eingang zur NewYorck befindet sich etwas versteckt am südlichen Flügel des Bethanien. Die genaue Position des Eingangs ist [hier (OpenStreetMap)](https://www.openstreetmap.org/?mlat=52.503470&mlon=13.423879#map=19/52.503470/13.423879) bzw. bei den Koordinaten [52.503433,13.423572](geo:52.503433,13.423572?z=19). Auf dem Satellietenbild ist der Eingang auch nochmal mit dem lilanen Kreis markiert:
