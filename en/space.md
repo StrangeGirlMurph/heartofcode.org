@@ -1,6 +1,6 @@
 # The space
 
-The Heart of Code space is located in the former [Bethanien]((https://de.wikipedia.org/wiki/Bethanien_(Berlin))) hospital in the [NewYorck](https://www.newyorck.net/) in Kreuzberg. The NewYorck is a space for emancipatory projects and us belongs one of the rooms in its hallway. The NewYorck is located in the south wing of the Bethanien. Unfortunately, our space is quite difficult to find. Before your first visit, be sure to read the detailed [directions](#directions) below! Further down you will also find important information about the [barriers](#barriers) of our space. Please note that very large events may also take place in other rooms at the NewYorck. However, we should be easier to find in those rooms.
+The Heart of Code space is located in the former [Bethanien](https://de.wikipedia.org/wiki/Bethanien_(Berlin)) hospital in the [NewYorck](https://www.newyorck.net/) in Kreuzberg. The NewYorck is a space for emancipatory projects and us belongs one of the rooms in its hallway. The NewYorck is located in the south wing of the Bethanien. Unfortunately, our space is quite difficult to find. Before your first visit, be sure to read the detailed [directions](#directions) below! Further down you will also find important information about the [barriers](#barriers) of our space. Please note that very large events may also take place in other rooms at the NewYorck. However, we should be easier to find in those rooms.
 
 Address:
 

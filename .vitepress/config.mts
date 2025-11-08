@@ -27,7 +27,7 @@ export default defineConfig({
     },
     en: {
       label: 'English',
-      lang: 'fr',
+      lang: 'en',
       themeConfig: {
         nav: [
           { text: 'About us', link: '/en/about' },
