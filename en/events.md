@@ -6,8 +6,7 @@ You can find our program in the [calendar](https://pad.systemli.org/p/heartofcod
 
 Big events can also take place in other rooms in the NewYorck (see the [details of our room](/en/space.md)). So if our [space](/en/space.md) happens to be empty one day make sure to check the other rooms as well!
 
-# Barriers
-
+## Barriers
 
 Since most of the events take place in our space, the [barriers of our space](/en/space.md#barriers) also become barriers of the events.
 

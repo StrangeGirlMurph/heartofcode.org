@@ -20,7 +20,7 @@ Toilets are located very close by in the NewYorck.
 
 ## Directions
 
-The entrance to NewYorck is somewhat hidden on the south wing of the Bethanien. The exact location of the entrance is [here (OpenStreetMap)](https://www.openstreetmap.org/?mlat=52.503470&mlon=13.423879# map=19/52.503470/13.423879) or at the coordinates [52.503433,13.423572](geo:52.503433,13.423572?z=19). The entrance is also marked with a purple circle on this satellite image:
+The entrance to NewYorck is somewhat hidden on the south wing of the Bethanien. The exact location of the entrance is [here (OpenStreetMap)](https://www.openstreetmap.org/?mlat=52.503470&mlon=13.423879#map=19/52.503470/13.423879) or at the coordinates [52.503433,13.423572](geo:52.503433,13.423572?z=19). The entrance is also marked with a purple circle on this satellite image:
 
 ![Satellite image of the Bethanien with the location of the entrance to NewYorck marked.](/assets/screenshot-entrance-location.png)
 

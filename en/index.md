@@ -9,10 +9,10 @@ hero:
     alt: Illustrated logo of the Heart of Code. A heart with wings and flowers in the background and a scroll with a binary sequence in the foreground.
   actions:
     - theme: alt
-      text: event calendar
+      text: Event calendar
       link: https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep
     - theme: alt
-      text: directions
+      text: Directions
       link: /en/space#directions
 
 
